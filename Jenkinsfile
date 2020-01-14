@@ -1,1 +1,3 @@
-#This is Jenkins file that defines the build pipeline.
+pipeline {
+    /* insert Declarative Pipeline here */
+}
